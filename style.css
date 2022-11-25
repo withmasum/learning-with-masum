@@ -1,0 +1,18 @@
+body{
+
+    background-color: pink;
+    color: white;
+    margin: 0 auto;
+    width: 600px;
+
+
+}
+
+.calign{
+
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
