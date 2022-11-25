@@ -16,3 +16,8 @@ body{
 footer{
     text-align: center;
 }
+
+img{text-align: center;
+    display: flex;
+    flex-direction: column;
+}
